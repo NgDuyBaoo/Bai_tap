@@ -3,21 +3,19 @@
 Welcome to C2 Store – the paradise of fashionable shoes! We take pride in offering you a diverse collection of stylish, high-quality shoes, from trendy sneakers to elegant high heels. Let us help you shine with every step you take!
 
 # Technologies
-Models: Define data structures and interact with the database.
-Views: Handle application logic and return responses.
-Templates: Create user interfaces using HTML and template tags.
-ORM (Object-Relational Mapping)
-Facilitate working with the database without writing direct SQL.
-Template Engine
-Generate dynamic HTML pages using template tags and
-filters.
+- Models: Define data structures and interact with the database.
+- Views: Handle application logic and return responses.
+- Templates: Create user interfaces using HTML and template tags.
+- Facilitate working with the database without writing direct SQL.
+- Template Engine
+- Generate dynamic HTML pages using template tags and filters.
 URL Routing
-Map URLs to corresponding views for route management.
-Authentication and Authorization
-Manage users, groups, access rights, and security.
-Middleware
-Process HTTP requests before they reach the view and after the view returns a response.
-Used for security, logging, session handling, etc.
+- Map URLs to corresponding views for route management.
+- Authentication and Authorization
+- Manage users, groups, access rights, and security.
+- Middleware
+- Process HTTP requests before they reach the view and after the view returns a response.
+- Used for security, logging, session handling, etc.
 
 # Our Mockup
 https://github.com/NgDuyBaoo/duybao-git
