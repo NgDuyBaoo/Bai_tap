@@ -8,4 +8,4 @@
 
 # Product search page
 
-![Product search page](URL-cua-anh)
+![Product search page](https://github.com/NgDuyBaoo/Bai_tap/blob/main/Content/Screenshot/Screenshot%202024-06-27%20144214.png)
