@@ -4,4 +4,4 @@
 
 # Product detail page
 
-![Product detail page](URL-cua-anh)
+![Product detail page](https://github.com/NgDuyBaoo/Bai_tap/blob/main/Content/Screenshot/Screenshot%202024-06-27%20143922.png)
