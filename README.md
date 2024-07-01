@@ -25,7 +25,7 @@ https://github.com/NgDuyBaoo/duybao-git
 - [Planning](https://github.com/NgDuyBaoo/duybao-git/blob/main/Content)
 - [Task](https://github.com/NgDuyBaoo/duybao-git/blob/main/content/Task/README.md)
 - [Screenshot](https://github.com/NgDuyBaoo/duybao-git/tree/main/content/Screenshot)
-- [Demo video]()
+- [Demo video](https://github.com/NgDuyBaoo/Bai_tap/blob/main/Content/Demo%20video/f64b915a-3100-4f4a-8b00-d85d5613bbec.mp4)
 
 # Prerequisites
 Before running this project, ensure you have the following installed:
