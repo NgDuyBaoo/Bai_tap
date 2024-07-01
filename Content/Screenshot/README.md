@@ -5,3 +5,7 @@
 # Product detail page
 
 ![Product detail page](https://github.com/NgDuyBaoo/Bai_tap/blob/main/Content/Screenshot/Screenshot%202024-06-27%20143922.png)
+
+# Product search page
+
+![Product search page](URL-cua-anh)
